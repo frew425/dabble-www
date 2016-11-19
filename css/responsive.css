@@ -298,8 +298,8 @@
 
 	#header.transparent-header,
 	#header.semi-transparent {
-		background: #FFF;
-		border-bottom: 1px solid #F5F5F5;
+		background: #eff3f8;
+		border-bottom: 1px solid #eff3f8;
 		z-index: auto;
 	}
 
@@ -1122,8 +1122,6 @@
 
 	h4 { font-size: 16px; }
 
-	.one-page-arrow { display: none !important; }
-
 	#top-bar { height: auto; }
 
 	#top-bar .col_half {
@@ -1150,7 +1148,7 @@
 	}
 
 	#top-social,
-	#slider:not(.swiper_wrapper) .slider-caption,
+	#slider:not(.hero) .slider-caption,
 	.nivo-caption,
 	.flex-caption,
 	.slider-caption p,
